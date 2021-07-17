@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,300;1,400&display=swap');
+
+main{
+background-color: rgb(12, 42, 141);
+border: 1px solid gray;
+height: calc(100vh .100px);
+align-items: center;
+justify-content: center;
+
+}
+
+.jump-img{
+    max-width: 400px;
+    height: auto;
+}
+
+main h1{
+    display: flex;
+
+    font-size: 64px;
+    color: white;
+    font-weight: 700;
+    line-height: 80px;
+    margin: 20px;
+}
+
+.content-left{
+    width: 554px;
+    height: 230px;
+    top: 216px;
+    left: 147px;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(255, 0, 64)
+    
+}
+
+}
+.click-action{
+    text-decoration: none;
+}
+
+.content-right{
+    width :635px;
+    Height: 438px;
+    Top : 171px;
+    Left :1440px;
+    
+}
+
+.box{
+    background-color: blue;
+    width: 1500px;
+    height: 500px
+}
+
+h1{
+    margin-bottom: 50px ;
+
+}
+
+.box img{
+    width:100px
+}
+.container {
+    
+    width: 992px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    width: 28%;
+    background: white;
+    /* border: 1px solid gray; */
+    padding: 15px ;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, .1);
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    box-shadow: 15px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card h1 {
+    font-weight: 700;
+}
+
+.card p {
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.bottom-section
+{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.football-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-top: 100px;
+}
+
+.font-awesome{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+} 
+.fab-icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+
+
